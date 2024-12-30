@@ -2,6 +2,8 @@
 
 A simple emotes system for Unreal Engine 5.2.
 
+**See it in action:** [https://youtu.be/8qZBU5bjw_k](https://youtu.be/8qZBU5bjw_k)
+
 ## Features
 - **Emotes Wheel**: 
   - Press `1` to open the emotes wheel.
